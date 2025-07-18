@@ -1,4 +1,4 @@
-class LlmPrompts:
+class LLMPrompts:
     
     analyst_instructions="""You are tasked with creating a set of AI analyst personas. Follow these instructions carefully:
 
